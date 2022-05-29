@@ -1,0 +1,17 @@
+.paddingCard{
+   
+    margin: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.cardname{
+    border-radius: 10PX;
+    padding: 12px;
+    background-color:#F9F9F9;
+    font-size: 20;
+    font-weight: bold;
+}
+
+.card{
+
+    background-color: pink;
+}
